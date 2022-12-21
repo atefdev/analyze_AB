@@ -56,4 +56,4 @@ In this project, you'll create visualizations to reveal insights from a data set
 *Across your three visuals, you should incorporate at least 3 different types of visuals.*
 - Each visual must be appropriate for the particular data type. However, you cannot submit three bar charts, or three line charts. You should have a minimum of at least three different types of visuals across all of your turned in items.
 - 3 Different types of charts required, here are some types you can choose:
-Bar Chart, Line Chart, Scatter Chart, Histogram, Bubble Chart, Map, Area Chart, Pie Chart etc
+Bar Chart, Line Chart, Scatter Chart, Histogram, Bubble Chart, Map, Area Chart, Pie Chart etc.
